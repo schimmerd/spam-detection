@@ -5,3 +5,4 @@
 /src
 results.csv
 main.py
+__pycache__
